@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+body{
+	background-color: black;
+    color: rgb(165, 37, 37);
+    padding: 100px 0px;
+    font-weight: 500;
+}
+ 
+
+h2{
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
